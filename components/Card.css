@@ -1,0 +1,8 @@
+.card {
+    display:inline;
+    height: 150px;
+    width: 100px;    
+    align-items:center;
+    background-color: chocolate;
+    
+   }
